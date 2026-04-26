@@ -11,9 +11,9 @@
 ## About
 A Banking management system made using MERN Stack. save users, Transfer money, view and edit your transfer history as well.
 
-🎥check out the video Demo to understand its working: https://www.youtube.com/watch?v=mjWpafNGQvs
 
-🚀The site is live: https://banking-system-97ru.onrender.com/
+
+
 
 ## Contributing
 `fork the repository`
